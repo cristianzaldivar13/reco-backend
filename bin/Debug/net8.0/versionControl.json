@@ -1,0 +1,34 @@
+{
+  "VersionControl": [
+    {
+      "Major": "1",
+      "Minor": "0",
+      "DataBase": "0",
+      "Revision": "0",
+      "Autor": "Cristian Zaldivar",
+      "Descripcion": "Version inicial",
+      "Fecha": "2024-18-12",
+      "Ticket": "ST"
+    },
+    {
+      "Major": "2",
+      "Minor": "0",
+      "DataBase": "0",
+      "Revision": "0",
+      "Autor": "Cristian Zaldivar",
+      "Descripcion": "Liberación a desarrollo",
+      "Fecha": "2024-18-12",
+      "Ticket": "ST"
+    },
+    {
+      "Major": "3",
+      "Minor": "0",
+      "DataBase": "0",
+      "Revision": "0",
+      "Autor": "Cristian Zaldivar",
+      "Descripcion": "Liberación a qa",
+      "Fecha": "2024-18-12",
+      "Ticket": "ST"
+    }
+  ]
+}

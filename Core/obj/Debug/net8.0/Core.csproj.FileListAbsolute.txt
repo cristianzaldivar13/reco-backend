@@ -1,0 +1,15 @@
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.Forms.Resource.Error.resources
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.csproj.GenerateResource.cache
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Cristian\Desktop\Proyectos\reco-backend\reco-backend\Core\obj\Debug\net8.0\ref\Core.dll

@@ -1,0 +1,100 @@
+{
+  "Origins": [
+    "http://localhost:44320"
+  ],
+  "ServidorConfig": {
+    "UrlDefaultWebSite": "http://localhost",
+    "PathDefaultWebSite": "C:/inetpub/wwwroot",
+    "PathDefaultAssetsFE": "E:/Recompensas/assets/images/download"
+  },
+  "TokenJwtConfig": {
+    "LlaveSecreta": "@-E84p7gt-rC#4G[ftvqi;0w8z8dZhRq2D2M",
+    "RequiereHttpsMetadata": false
+  },
+  "ArchivoConfig": {
+    "CarpetaRaiz": "Multimedia",
+    "Extensiones": [
+      ".txt",
+      ".csv",
+      ".pdf",
+      ".png",
+      ".jpg",
+      ".jpeg",
+      ".gif",
+      ".mp4",
+      ".mpeg"
+    ],
+    "TiposDeContenido": [
+      "text/plain",
+      "text/csv",
+      "application/pdf",
+      "image/png",
+      "image/jpeg",
+      "image/gif",
+      "video/mp4",
+      "video/mpeg"
+    ]
+  },
+  "LogConfig": {
+    "Aplicacion": "Recompensas",
+    "Origen": "WS3"
+  },
+  "BitacoraConfig": {
+    "Aplicacion": "Recompensas",
+    "Origen": "WebService"
+  },
+  "CaracterConfig": {
+    "Letras": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "Numeros": "0123456789",
+    "Acentos": "ñáéíóúüÑÁÉÍÓÚÜ",
+    "Especiales": ".,:;¿?¡!#@&_()%'\"$+-*/ "
+  },
+  "BaseDeDatosConfig": {
+    "ConexionTimeOut": 90,
+    "EjecucionTimeOut": 30,
+    "Recompensas": {
+      "Tipo": "SqlServer",
+      "Servidor": "108.181.200.246,1497",
+      "Usuario": "sa",
+      "Password": "BDcR$c31964863gT*9u",
+      "Catalogo": "proyectum"
+    }
+  },
+  "EmailConfig": {
+    "Usuario": "Recompensas",
+    "Direccion": "notificaciones@miempresa.net",
+    "Password": "RfGd!yre7OuF",
+    "Servidor": "smtp.1and1.com",
+    "Puerto": 587,
+    "SSL": true,
+    "TimeOutEmail": 30000
+  },
+  "SmsConfig": {
+    "ApiKey": "ApiKey",
+    "ApiSecret": "ApiSecret",
+    "TwilioTelefono": "TwilioTelefono"
+  },
+  "RecompensasConfig": {
+    "Dispositivos": "moto g(6) play;",
+    "LogsApi": "LogsEzigna",
+    "RutadeArchivos": "E:\\Recompensas-WS-F3\\Recompensas\\images\\",
+    "RutaImagenUsuario": "https://dev.recompensas.com.mx",
+    "DominioServidor": "https://dev.recompensas.com.mx",
+    "DominioApi": "https://dev.recompensas.com.mx",
+    "DominioSinVinculo": "dev.recompensas.com.mx\\DCI-WS-F3\\",
+    "RutaGrafico": "E:\\DCI-WS-F3\\Recompensas\\Graficos\\",
+    "LabelEncuestasNoPonderadas": "Ejecución sin ponderación",
+    "VersionApp": "2.03",
+    "versionApk": 5.1,
+    "validarApk": 1,
+    "URLMicroservicios": "https://mservicesDEV.recompensas.com.mx/",
+    "ApplicationID": "599cc056591bbf14a4cd9b36",
+    "ApplicationPassword": "Ezigna_FB123*",
+    "TipoAmbiente": "dev",
+    "CarpetaImagenes": "E:\\Documentos\\Recompensas\\",
+    "TokenLuxand": "fafee9563a014e3285d4bd355bfde0ef",
+    "TokenGoogleApi": "AIzaSyCif1SU5h4bT74dCDm90Q-U1tTOfL5N9Eg",
+    "CurpApiToken": "b339f3ba-aaf8-400a-b8bb-d56ce79e85dc",
+    "TokenNubarium": "d56ce79e85dcd56ce79e85dcd56ce79e85dcd56ce79e85dcd56ce79e85dc"
+  }
+}
